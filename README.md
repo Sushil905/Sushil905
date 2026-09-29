@@ -46,31 +46,57 @@ Full Stack Developer focused on building responsive web applications, REST APIs,
 
 </div>
 
-## Featured Projects
+## Selected Projects
 
-### [AI Workspace](https://github.com/Sushil905/AI-workspace)
+Project highlights from frontend and API design through data storage and AI integration. Each repository includes its own setup details.
 
-Full-stack AI productivity and collaboration platform for tasks, schedules, analytics, and team workflows, with OpenAI and Gemini integrations.
+### 01 · [AI Workspace](https://github.com/Sushil905/AI-workspace)
 
-`React.js` `Node.js` `Go` `MySQL` `OpenAI API` `Gemini API`
+An AI-powered productivity and collaboration platform built around a React client, Express API, Go background services, and MySQL data layer.
 
-### [Smart Maharashtra Police Assistance System](https://github.com/Sushil905/Police-Assistance)
+- **Workspace:** Kanban, table, and calendar task views, team collaboration, notifications, and prompt history.
+- **Automation:** AI-generated subtasks, smart scheduling, reminders, productivity analytics, and weekly reports.
+- **AI integration:** Provider-ready copilot with OpenAI and Gemini support.
 
-Public safety platform featuring police station search, emergency support, complaint management, live news, and a responsive dashboard.
+**Stack:** `React` `Node.js` `Express` `Go` `MySQL` `OpenAI API` `Gemini API`
 
-`React.js` `Node.js` `Go` `MySQL`
+[![View source](https://img.shields.io/badge/VIEW%20SOURCE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sushil905/AI-workspace)
 
-### [GATE_SCORE](https://github.com/Sushil905/GATE_SCORE)
+### 02 · [Smart Maharashtra Police Assistance System](https://github.com/Sushil905/Police-Assistance)
 
-Generative AI-powered GATE preparation platform with mock tests, performance analytics, branch-wise resources, personalized study plans, and AI-assisted doubt solving.
+A public-safety and case-management platform with separate Node.js and Go services and a responsive React dashboard.
 
-`React.js` `Node.js` `MySQL` `Generative AI APIs`
+- **Public assistance:** Police station search, emergency support, complaint management, and live news updates.
+- **Case operations:** Go APIs for case management, analytics, and report generation.
+- **Access & services:** JWT authentication, role-based access, refresh tokens, file uploads, and notifications.
 
-### [Advanced Online Quiz Application](https://github.com/Sushil905/Online-Quiz-System)
+**Stack:** `React` `Tailwind CSS` `Node.js` `Go` `MySQL` `Chart.js` `JWT`
 
-Flask-based quiz platform with subject-wise quizzes, authentication, scoring, rankings, learning resources, chatbot support, and responsive UI.
+[![View source](https://img.shields.io/badge/VIEW%20SOURCE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sushil905/Police-Assistance)
 
-`Python` `Flask` `SQLite` `REST APIs`
+### 03 · [GATE_SCORE](https://github.com/Sushil905/GATE_SCORE)
+
+A full-stack GATE preparation platform combining practice workflows, learning resources, analytics, and generative AI assistance.
+
+- **Preparation:** Mock tests, previous-year practice, branch-wise resources, and personalized study plans.
+- **AI learning tools:** Doubt solving, question generation, answer explanations, and recommendations.
+- **Progress tracking:** Performance analytics, score prediction, student authentication, and admin resource uploads.
+
+**Stack:** `React` `Vite` `Tailwind CSS` `Node.js` `Express` `MySQL` `JWT` `OpenAI API` `Gemini API`
+
+[![View source](https://img.shields.io/badge/VIEW%20SOURCE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sushil905/GATE_SCORE)
+
+### 04 · [Advanced Online Quiz Application](https://github.com/Sushil905/Online-Quiz-System)
+
+A Flask quiz application with subject-based practice, user accounts, score tracking, and a responsive interface.
+
+- **Learning flow:** Fresh API-based questions, feedback, and supporting learning resources.
+- **Competition:** Scoring, rankings, and stored quiz results.
+- **Student support:** Chatbot assistance and a pytest suite covering core application behavior.
+
+**Stack:** `Python` `Flask` `SQLite` `REST APIs` `Pytest`
+
+[![View source](https://img.shields.io/badge/VIEW%20SOURCE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sushil905/Online-Quiz-System)
 
 ## GitHub Activity
 
