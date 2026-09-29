@@ -76,13 +76,13 @@ Flask-based quiz platform with subject-wise quizzes, authentication, scoring, ra
 
 <div align="center">
 
-<!-- Dynamic public-profile metrics; refresh timing depends on each provider's cache. -->
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sushil905&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&cache_seconds=1800" alt="GitHub profile statistics: commits, stars, and contributions" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil905&layout=compact&hide_border=true&theme=github_dark&langs_count=8&cache_seconds=1800" alt="Most-used languages across public repositories" />
+<!-- Live SVG cards; images are generated from public GitHub profile data. -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushil905&theme=github_dark" alt="GitHub profile overview and contribution activity" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushil905&theme=github_dark" alt="Language distribution across public repositories" />
 
 <br /><br />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sushil905&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+<img width="95%" src="https://ghchart.xqsit94.in/dark:default/Sushil905" alt="GitHub yearly contribution heatmap" />
 
 <br /><br />
 
