@@ -15,7 +15,7 @@
 
 ## Profile
 
-Full Stack Developer focused on building responsive web applications, REST APIs, and data-driven product experiences. I work across React interfaces, Node.js and Go services, and SQL/NoSQL databases. I also integrate generative AI capabilities with OpenAI and Gemini APIs. Currently pursuing a **B.Tech in Computer Science and Engineering (Software Engineering)** at **SRM Institute of Science and Technology**.
+Full Stack Developer focused on building **responsive web applications**, **REST APIs**, and **data-driven product experiences**. I work across **React** interfaces, **Node.js and Go** services, and **SQL/NoSQL** databases. I also integrate **generative AI** capabilities with the **OpenAI and Gemini APIs**. Currently pursuing a **B.Tech in Computer Science and Engineering (Software Engineering)** at **SRM Institute of Science and Technology**.
 
 **Areas of interest:** Full Stack Development · Generative AI · API Design · Database-backed Applications
 
@@ -52,11 +52,11 @@ Project highlights from frontend and API design through data storage and AI inte
 
 ### 01 · [AI Workspace](https://github.com/Sushil905/AI-workspace)
 
-An AI-powered productivity and collaboration platform built around a React client, Express API, Go background services, and MySQL data layer.
+An **AI-powered productivity and collaboration platform** built around a **React client**, **Express API**, **Go background services**, and **MySQL data layer**.
 
-- **Workspace:** Kanban, table, and calendar task views, team collaboration, notifications, and prompt history.
-- **Automation:** AI-generated subtasks, smart scheduling, reminders, productivity analytics, and weekly reports.
-- **AI integration:** Provider-ready copilot with OpenAI and Gemini support.
+- **Workspace:** **Kanban, table, and calendar** task views, team collaboration, notifications, and prompt history.
+- **Automation:** **AI-generated subtasks**, smart scheduling, reminders, productivity analytics, and weekly reports.
+- **AI integration:** Provider-ready copilot with **OpenAI and Gemini** support.
 
 **Stack:** `React` `Node.js` `Express` `Go` `MySQL` `OpenAI API` `Gemini API`
 
@@ -64,11 +64,11 @@ An AI-powered productivity and collaboration platform built around a React clien
 
 ### 02 · [Smart Maharashtra Police Assistance System](https://github.com/Sushil905/Police-Assistance)
 
-A public-safety and case-management platform with separate Node.js and Go services and a responsive React dashboard.
+A **public-safety and case-management platform** with separate **Node.js and Go services** and a **responsive React dashboard**.
 
-- **Public assistance:** Police station search, emergency support, complaint management, and live news updates.
-- **Case operations:** Go APIs for case management, analytics, and report generation.
-- **Access & services:** JWT authentication, role-based access, refresh tokens, file uploads, and notifications.
+- **Public assistance:** Police station search, **emergency support**, complaint management, and live news updates.
+- **Case operations:** Go APIs for **case management, analytics, and report generation**.
+- **Access & services:** **JWT authentication**, role-based access, refresh tokens, file uploads, and notifications.
 
 **Stack:** `React` `Tailwind CSS` `Node.js` `Go` `MySQL` `Chart.js` `JWT`
 
@@ -76,11 +76,11 @@ A public-safety and case-management platform with separate Node.js and Go servic
 
 ### 03 · [GATE_SCORE](https://github.com/Sushil905/GATE_SCORE)
 
-A full-stack GATE preparation platform combining practice workflows, learning resources, analytics, and generative AI assistance.
+A **full-stack GATE preparation platform** combining practice workflows, learning resources, analytics, and **generative AI assistance**.
 
-- **Preparation:** Mock tests, previous-year practice, branch-wise resources, and personalized study plans.
-- **AI learning tools:** Doubt solving, question generation, answer explanations, and recommendations.
-- **Progress tracking:** Performance analytics, score prediction, student authentication, and admin resource uploads.
+- **Preparation:** **Mock tests**, previous-year practice, branch-wise resources, and personalized study plans.
+- **AI learning tools:** **Doubt solving**, question generation, answer explanations, and recommendations.
+- **Progress tracking:** **Performance analytics and score prediction**, student authentication, and admin resource uploads.
 
 **Stack:** `React` `Vite` `Tailwind CSS` `Node.js` `Express` `MySQL` `JWT` `OpenAI API` `Gemini API`
 
@@ -88,11 +88,11 @@ A full-stack GATE preparation platform combining practice workflows, learning re
 
 ### 04 · [Advanced Online Quiz Application](https://github.com/Sushil905/Online-Quiz-System)
 
-A Flask quiz application with subject-based practice, user accounts, score tracking, and a responsive interface.
+A **Flask quiz application** with subject-based practice, user accounts, score tracking, and a **responsive interface**.
 
 - **Learning flow:** Fresh API-based questions, feedback, and supporting learning resources.
-- **Competition:** Scoring, rankings, and stored quiz results.
-- **Student support:** Chatbot assistance and a pytest suite covering core application behavior.
+- **Competition:** **Scoring, rankings, and stored quiz results.**
+- **Student support:** Chatbot assistance and a **pytest suite** covering core application behavior.
 
 **Stack:** `Python` `Flask` `SQLite` `REST APIs` `Pytest`
 
