@@ -76,12 +76,17 @@ Flask-based quiz platform with subject-wise quizzes, authentication, scoring, ra
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sushil905&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" alt="GitHub statistics for Sushil905" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil905&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most-used programming languages" />
+<!-- Dynamic public-profile metrics; refresh timing depends on each provider's cache. -->
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sushil905&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&cache_seconds=1800" alt="GitHub profile statistics: commits, stars, and contributions" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil905&layout=compact&hide_border=true&theme=github_dark&langs_count=8&cache_seconds=1800" alt="Most-used languages across public repositories" />
 
-<br />
+<br /><br />
 
-<img src="https://streak-stats.demolab.com?user=Sushil905&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sushil905&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=Sushil905&theme=github-dark-blue&hide_border=true" alt="Current GitHub contribution streak" />
 
 </div>
 
