@@ -1,53 +1,46 @@
 <div align="center">
 
-# Sushilkumar
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:1F6FEB&height=220&section=header&text=Sushilkumar&fontSize=52&fontColor=F0F6FC&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" alt="Sushilkumar — Full Stack Developer and GenAI Enthusiast" />
 
-### Full Stack Developer · GenAI Enthusiast
-
-[![Typing animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+full-stack+web+applications;Exploring+generative+AI;Turning+ideas+into+useful+software)](https://git.io/typing-svg)
+[![Typing animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+full-stack+applications;Integrating+generative+AI;Learning%2C+shipping%2C+iterating)](https://git.io/typing-svg)
 
 **B.Tech CSE (Software Engineering)** · SRM Institute of Science and Technology
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushil905)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![GitHub](https://img.shields.io/badge/GitHub-Sushil905-181717?style=flat-square&logo=github)](https://github.com/Sushil905)
+[![Repositories](https://img.shields.io/badge/Explore-Projects-1F6FEB?style=flat-square&logo=github)](https://github.com/Sushil905?tab=repositories)
 
 </div>
 
 ---
 
-## About
+## Profile
 
-I’m a **Full Stack Developer** interested in building practical web applications and exploring generative AI. I work across frontend, backend, and database layers, and integrate AI capabilities with the OpenAI and Gemini APIs. I’m currently pursuing a **B.Tech in Computer Science and Engineering (Software Engineering)** at **SRM Institute of Science and Technology**.
+Full Stack Developer focused on building responsive web applications, REST APIs, and data-driven product experiences. I work across React interfaces, Node.js and Go services, and SQL/NoSQL databases. I also integrate generative AI capabilities with OpenAI and Gemini APIs. Currently pursuing a **B.Tech in Computer Science and Engineering (Software Engineering)** at **SRM Institute of Science and Technology**.
 
-- **Focus:** Full-stack development, web applications, and GenAI
-- **Frontend:** React.js, JavaScript, Tailwind CSS
-- **Backend & data:** Node.js, Express.js, MongoDB, MySQL
-- **AI APIs:** OpenAI API, Gemini API
+**Areas of interest:** Full Stack Development · Generative AI · API Design · Database-backed Applications
 
-## Technology
+## Tech Stack
 
 <div align="center">
 
-<strong>Languages</strong><br />
-<img src="https://skillicons.dev/icons?i=java,js,python,go&theme=dark&perline=4" height="64" alt="Java, JavaScript, Python, and Go" />
+**Languages**  
+<img src="https://skillicons.dev/icons?i=java,js,python,go&theme=dark" alt="Java, JavaScript, Python, Go" />
 <br />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="SQL" />
 
 <br /><br />
 
-<strong>Frontend & Backend</strong><br />
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark&perline=4" height="64" alt="React, Node.js, Express, and Tailwind CSS" />
+**Frontend & Backend**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark" alt="React, Node.js, Express, Tailwind CSS" />
 
 <br /><br />
 
-<strong>Databases & Tools</strong><br />
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman&theme=dark&perline=5" height="64" alt="MongoDB, MySQL, Git, GitHub, and Postman" />
+**Databases & Developer Tools**  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman&theme=dark" alt="MongoDB, MySQL, Git, GitHub, Postman" />
 
 <br /><br />
 
-<strong>Generative AI</strong><br />
+**Generative AI**  
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI API" />
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" alt="Gemini API" />
 
@@ -55,29 +48,48 @@ I’m a **Full Stack Developer** interested in building practical web applicatio
 
 ## Featured Projects
 
-| Project | Description |
-|---|---|
-| **Smart Maharashtra Police Assistance System** | A digital assistance project focused on making police-related information and support more accessible. |
-| **AI Workspace** | An AI-focused workspace exploring generative AI capabilities in a unified experience. |
-| **GATE_SCORE** | A project related to GATE exam scores and performance. |
-| **Advanced Online Quiz Application** | An application for creating and taking online quizzes. |
+### [AI Workspace](https://github.com/Sushil905/AI-workspace)
+
+Full-stack AI productivity and collaboration platform for tasks, schedules, analytics, and team workflows, with OpenAI and Gemini integrations.
+
+`React.js` `Node.js` `Go` `MySQL` `OpenAI API` `Gemini API`
+
+### [Smart Maharashtra Police Assistance System](https://github.com/Sushil905/Police-Assistance)
+
+Public safety platform featuring police station search, emergency support, complaint management, live news, and a responsive dashboard.
+
+`React.js` `Node.js` `Go` `MySQL`
+
+### [GATE_SCORE](https://github.com/Sushil905/GATE_SCORE)
+
+Generative AI-powered GATE preparation platform with mock tests, performance analytics, branch-wise resources, personalized study plans, and AI-assisted doubt solving.
+
+`React.js` `Node.js` `MySQL` `Generative AI APIs`
+
+### [Advanced Online Quiz Application](https://github.com/Sushil905/Online-Quiz-System)
+
+Flask-based quiz platform with subject-wise quizzes, authentication, scoring, rankings, learning resources, chatbot support, and responsive UI.
+
+`Python` `Flask` `SQLite` `REST APIs`
 
 ## GitHub Activity
 
-<!-- GitHub profile cards use the Sushil905 username. -->
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sushil905&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil905&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Sushil905&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sushil905&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" alt="GitHub statistics for Sushil905" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil905&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most-used programming languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Sushil905&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
 </div>
 
 ## Connect
 
-I’m open to connecting with developers and discussing full-stack engineering, AI, and interesting projects.
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushil905)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushil905)
+[![Projects](https://img.shields.io/badge/Projects-View-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushil905?tab=repositories)
+
+</div>
