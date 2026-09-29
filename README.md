@@ -76,9 +76,14 @@ Flask-based quiz platform with subject-wise quizzes, authentication, scoring, ra
 
 <div align="center">
 
-<!-- Live SVG cards; images are generated from public GitHub profile data. -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushil905&theme=github_dark" alt="GitHub profile overview and contribution activity" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushil905&theme=github_dark" alt="Language distribution across public repositories" />
+<!-- Dynamic cards use public GitHub data; refresh timing depends on provider caching. -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushil905&theme=github_dark&animation=rise" alt="GitHub metrics including commits, pull requests, issues, and stars" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushil905&theme=github_dark&animation=draw" alt="Contribution activity trend over time" />
+
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushil905&theme=github_dark&animation=draw" alt="Language distribution across public repositories" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushil905&theme=github_dark&utcOffset=5.5&animation=draw" alt="Contribution activity by time of day in India Standard Time" />
 
 <br /><br />
 
